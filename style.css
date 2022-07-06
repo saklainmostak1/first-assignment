@@ -60,6 +60,7 @@
     padding: 10px 20px;
     border-radius: 5px;
     color: white; 
+    margin-right: 100px;
 }
 .ppp{
     display: flex;
@@ -178,17 +179,17 @@ font-family: 'Yellowtail', cursive;
     border: 10px solid black;
 }
 .vvv{
-    margin-left: -6px;
     text-decoration: none;
+    margin-left: -6px;
     background: linear-gradient( 45deg, lightsalmon, tomato);
-    padding: 6px 10px 3px 6px;
+    padding: 23px 10px 7px 20px;
     color: white;
-    font-weight: 700; 
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 0px 5px 5px 0px;    
 }
 .email-account{   
     border: none;
-    font-size: 22px;
+    font-size: 40px;
     border-radius: 3px;
     background-color: silver;
+    
 }
