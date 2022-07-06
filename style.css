@@ -1,7 +1,7 @@
 .saklain{
     background-image: url(images/Screenshot\ \(8\).png);
     background-repeat: no-repeat;
-    height: 1000px;
+    height: 1050px;
     text-align: center;  
     color: white;
     padding-top: 200px;   
@@ -71,7 +71,7 @@
     margin-right: 50px;
     border-radius: 10px;
     text-align: left;
-    
+
    
     
 }
@@ -104,7 +104,7 @@
 
 .hmdj{
     margin-top: 200px;
-    margin-left: 250px;
+    margin-left: 380px;
 }
 .f3{
     text-decoration: none;
@@ -136,6 +136,7 @@
     display: flex;
     margin-top: 100px;
     background-repeat: no-repeat;
+    margin-left: 140px;
 }
 .dream-area{
     margin-left: 150px ;
