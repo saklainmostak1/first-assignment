@@ -190,6 +190,9 @@ font-family: 'Yellowtail', cursive;
     border: none;
     font-size: 40px;
     border-radius: 3px;
-    background-color: silver;
-    
+    background-color: silver;    
+}
+.paragraph{
+     width: 25%;
+     margin-left: 700px;
 }
